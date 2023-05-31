@@ -1,0 +1,18 @@
+{
+	"name": "Boovovs All Knowledge at 60",
+	"description": "This mod give a character 10000 knowledge points when they hit level 60.\n\nNot sure it if will work for characters that are already 60 at this point in time.",
+	"changeNote": "*Recreated/Updated the mod structure for the current version of the game: Conan Exiles Age or Sorcery, Chapter 3 - 05/31/2023\n*Renamed all instances of \"feat\" to \"knowledge\" to match the ingame interface changes.\n*Made a github repo for the mod so the files dont get lost again.",
+	"author": "Boovov",
+	"authorUrl": "",
+	"versionMajor": 2,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1394433434",
+	"steamTestLivePublishedFileId": "",
+	"steamVisibility": 0,
+	"folderName": "Boovovs_all_knowledge_at_60",
+	"revisionNumber": 469970,
+	"snapshotId": 36602,
+	"fileSize": -1221794960
+}

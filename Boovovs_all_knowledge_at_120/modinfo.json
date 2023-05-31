@@ -1,0 +1,18 @@
+{
+	"name": "Boovovs All Knowledge at 120",
+	"description": "This mod give a character 10000 knowledge points when they hit level 120.\n\nNot sure it if will work for characters that are already 120 at this point in time.\n\nOriginal mod for base game here (lvl 60): https://steamcommunity.com/sharedfiles/filedetails/?id=1394433434",
+	"changeNote": "* Intial upload of the mod, steam user  twitch.tv/FuRiA_CC requested this mod for Calamitous mod with a level cap of 120.\n* Added into the same github repo as the original mod.",
+	"author": "Boovov",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2983031666",
+	"steamTestLivePublishedFileId": "",
+	"steamVisibility": 0,
+	"folderName": "Boovovs_all_knowledge_at_120",
+	"revisionNumber": 469970,
+	"snapshotId": 36602,
+	"fileSize": 0
+}
