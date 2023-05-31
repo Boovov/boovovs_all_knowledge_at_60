@@ -1,4 +1,4 @@
-# boovovs_all_knowledge_mods
+# Boovovs All Knowledge Conan Exiles Mods
 This is the repo to store the files for a conan exiles mod so they dont get lost again.
 
 Boovovs All Knowledge at 60:
